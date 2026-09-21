@@ -6,26 +6,56 @@ Brute force first, then optimize. Daily DSA practice in C++, organised by patter
 
 ```
 problems/
-  <pattern>/            e.g. sliding-window, two-pointers, dp, graphs ...
-    <number>-<slug>.cpp one file per problem, with header (link, pattern, complexity)
+  01-prefix-sum/
+  02-two-pointers/
+  03-sliding-window/
+  04-kadane-subarrays/
+  05-cyclic-sort/
+  06-binary-search-arrays/
+  07-recursion/
+  08-backtracking/
+  09-sorting-binary-search/
+  10-linked-list/
+  11-stacks-queues/
+  12-trees-bst/
+  13-graphs/
+  14-dynamic-programming/
 templates/
-  solution_template.cpp copy this to start a new problem
+  solution_template.cpp   copy this to start a new problem
 ```
 
-Compile and run any solution: `g++ -std=c++17 -o /tmp/sol problems/<pattern>/<file>.cpp && /tmp/sol`
+One file per problem: `<lc-number>-<slug>.cpp`, with a header (link, pattern, complexity, date).
+Where useful, a file keeps both the brute-force and the optimized version.
+
+Compile and run any solution:
+```
+g++ -std=c++17 -o /tmp/sol problems/<pattern>/<file>.cpp && /tmp/sol
+```
 
 ## Streak log
 
-Add one row per day, newest at the bottom.
+One row per day, newest at the bottom.
 
-| Date       | Problem                                              | Pattern        | Status |
-|------------|------------------------------------------------------|----------------|--------|
-| 2026-09-12 | [15. 3Sum](problems/two-pointers/0015-3sum.cpp)      | Two pointers   | WIP    |
-| 2026-09-22 | [2461. Max Sum of Distinct Subarrays With Length K](problems/sliding-window/2461-max-sum-distinct-subarrays-k.cpp) | Sliding window | Done   |
+| Date       | Problem | Pattern | Status |
+|------------|---------|---------|--------|
+| 2026-09-12 | [15. 3Sum](problems/02-two-pointers/0015-3sum.cpp) | Two pointers | WIP |
+| 2026-09-22 | [2461. Max Sum of Distinct Subarrays With Length K](problems/03-sliding-window/2461-max-sum-distinct-subarrays-k.cpp) | Sliding window | Done |
 
-## Patterns covered
+## Progress by pattern
 
-| Pattern        | Solved |
-|----------------|--------|
-| Sliding window | 1      |
-| Two pointers   | 0 (1 WIP) |
+| Pattern | Done | WIP |
+|---------|------|-----|
+| Prefix sum | 0 | 0 |
+| Two pointers | 0 | 1 |
+| Sliding window | 1 | 0 |
+| Kadane / subarrays | 0 | 0 |
+| Cyclic sort | 0 | 0 |
+| Binary search on arrays | 0 | 0 |
+| Recursion | 0 | 0 |
+| Backtracking | 0 | 0 |
+| Sorting & binary search | 0 | 0 |
+| Linked list | 0 | 0 |
+| Stacks & queues | 0 | 0 |
+| Trees & BST | 0 | 0 |
+| Graphs | 0 | 0 |
+| Dynamic programming | 0 | 0 |
