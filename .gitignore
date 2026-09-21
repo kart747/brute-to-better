@@ -1,0 +1,13 @@
+# compiled binaries
+*.out
+*.o
+a.out
+# editor / tooling
+.vscode/
+.claude/
+# extensionless executables (e.g. `g++ -o brute file.cpp`)
+problems/**/*
+!problems/**/*.cpp
+!problems/**/*.py
+!problems/**/*.md
+!problems/**/
