@@ -1,6 +1,6 @@
-# DSA
+# brute-to-better
 
-My data structures & algorithms practice, organised by pattern. Language: C++.
+Brute force first, then optimize. Daily DSA practice in C++, organised by pattern.
 
 ## Structure
 
