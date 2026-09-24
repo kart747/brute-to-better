@@ -40,6 +40,9 @@ One row per day, newest at the bottom.
 |------------|---------|---------|--------|
 | 2026-09-12 | [15. 3Sum](problems/02-two-pointers/0015-3sum.cpp) | Two pointers | WIP |
 | 2026-09-22 | [2461. Max Sum of Distinct Subarrays With Length K](problems/03-sliding-window/2461-max-sum-distinct-subarrays-k.cpp) | Sliding window | Done |
+| 2026-09-23 | [3. Longest Substring Without Repeating Characters](problems/03-sliding-window/0003-longest-substring-no-repeat.cpp) | Sliding window | Done |
+| 2026-09-24 | [904. Fruit Into Baskets](problems/03-sliding-window/0904-fruit-into-baskets.cpp) | Sliding window | Done |
+| 2026-09-24 | [53. Maximum Subarray](problems/04-kadane-subarrays/0053-maximum-subarray.cpp) | Kadane | Done |
 
 ## Progress by pattern
 
@@ -47,8 +50,8 @@ One row per day, newest at the bottom.
 |---------|------|-----|
 | Prefix sum | 0 | 0 |
 | Two pointers | 0 | 1 |
-| Sliding window | 1 | 0 |
-| Kadane / subarrays | 0 | 0 |
+| Sliding window | 3 | 0 |
+| Kadane / subarrays | 1 | 0 |
 | Cyclic sort | 0 | 0 |
 | Binary search on arrays | 0 | 0 |
 | Recursion | 0 | 0 |
