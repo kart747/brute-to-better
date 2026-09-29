@@ -43,12 +43,13 @@ One row per day, newest at the bottom.
 | 2026-09-23 | [3. Longest Substring Without Repeating Characters](problems/03-sliding-window/0003-longest-substring-no-repeat.cpp) | Sliding window | Done |
 | 2026-09-24 | [904. Fruit Into Baskets](problems/03-sliding-window/0904-fruit-into-baskets.cpp) | Sliding window | Done |
 | 2026-09-24 | [53. Maximum Subarray](problems/04-kadane-subarrays/0053-maximum-subarray.cpp) | Kadane | Done |
+| 2026-09-30 | [560. Subarray Sum Equals K](problems/01-prefix-sum/0560-subarray-sum-equals-k.cpp) | Prefix sum | Done |
 
 ## Progress by pattern
 
 | Pattern | Done | WIP |
 |---------|------|-----|
-| Prefix sum | 0 | 0 |
+| Prefix sum | 1 | 0 |
 | Two pointers | 0 | 1 |
 | Sliding window | 3 | 0 |
 | Kadane / subarrays | 1 | 0 |
