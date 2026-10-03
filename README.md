@@ -45,6 +45,7 @@ One row per day, newest at the bottom.
 | 2026-09-24 | [53. Maximum Subarray](problems/04-kadane-subarrays/0053-maximum-subarray.cpp) | Kadane | Done |
 | 2026-09-30 | [560. Subarray Sum Equals K](problems/01-prefix-sum/0560-subarray-sum-equals-k.cpp) | Prefix sum | Done |
 | 2026-09-30 | [724. Find Pivot Index](problems/01-prefix-sum/0724-find-pivot-index.cpp) | Prefix sum | Done |
+| 2026-10-03 | [875. Koko Eating Bananas](problems/09-sorting-binary-search/0875-koko-eating-bananas.cpp) | Sorting & binary search | Done |
 
 ## Progress by pattern
 
@@ -58,7 +59,7 @@ One row per day, newest at the bottom.
 | Binary search on arrays | 0 | 0 |
 | Recursion | 0 | 0 |
 | Backtracking | 0 | 0 |
-| Sorting & binary search | 0 | 0 |
+| Sorting & binary search | 1 | 0 |
 | Linked list | 0 | 0 |
 | Stacks & queues | 0 | 0 |
 | Trees & BST | 0 | 0 |
