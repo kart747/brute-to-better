@@ -47,6 +47,7 @@ One row per day, newest at the bottom.
 | 2026-09-30 | [724. Find Pivot Index](problems/01-prefix-sum/0724-find-pivot-index.cpp) | Prefix sum | Done |
 | 2026-10-03 | [875. Koko Eating Bananas](problems/09-sorting-binary-search/0875-koko-eating-bananas.cpp) | Sorting & binary search | Done |
 | 2026-10-04 | [1004. Max Consecutive Ones III](problems/03-sliding-window/1004-max-consecutive-ones-iii.cpp) | Sliding window | Done |
+| 2026-10-04 | [206. Reverse Linked List](problems/10-linked-list/0206-reverse-linked-list.cpp) | Linked list | Done |
 
 ## Progress by pattern
 
@@ -61,7 +62,7 @@ One row per day, newest at the bottom.
 | Recursion | 0 | 0 |
 | Backtracking | 0 | 0 |
 | Sorting & binary search | 1 | 0 |
-| Linked list | 0 | 0 |
+| Linked list | 1 | 0 |
 | Stacks & queues | 0 | 0 |
 | Trees & BST | 0 | 0 |
 | Graphs | 0 | 0 |
