@@ -1,8 +1,8 @@
 // 876. Middle of the Linked List
 // https://leetcode.com/problems/middle-of-the-linked-list/
-// Pattern : <fill in after solving>
-// Time    : O(?)      Space: O(?)
-// Solved  : <YYYY-MM-DD>
+// Pattern : fast & slow pointers
+// Time    : O(n)      Space: O(1)
+// Solved  : 2026-10-05
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -37,8 +37,13 @@ struct ListNode {
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        // TODO: brute force first, then optimize
-        return head;
+        ListNode *slow = head, *fast = head;
+
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
     }
 };
 
