@@ -50,6 +50,7 @@ One row per day, newest at the bottom.
 | 2026-10-04 | [206. Reverse Linked List](problems/10-linked-list/0206-reverse-linked-list.cpp) | Linked list | Done |
 | 2026-10-05 | [141. Linked List Cycle](problems/10-linked-list/0141-linked-list-cycle.cpp) | Linked list | Done |
 | 2026-10-05 | [876. Middle of the Linked List](problems/10-linked-list/0876-middle-of-the-linked-list.cpp) | Linked list | Done |
+| 2026-10-06 | [19. Remove Nth Node From End of List](problems/10-linked-list/0019-remove-nth-node-from-end.cpp) | Linked list | Done |
 
 ## Progress by pattern
 
@@ -64,7 +65,7 @@ One row per day, newest at the bottom.
 | Recursion | 0 | 0 |
 | Backtracking | 0 | 0 |
 | Sorting & binary search | 1 | 0 |
-| Linked list | 3 | 0 |
+| Linked list | 4 | 0 |
 | Stacks & queues | 0 | 0 |
 | Trees & BST | 0 | 0 |
 | Graphs | 0 | 0 |
