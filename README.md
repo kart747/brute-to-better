@@ -53,6 +53,8 @@ One row per day, newest at the bottom.
 | 2026-10-06 | [19. Remove Nth Node From End of List](problems/10-linked-list/0019-remove-nth-node-from-end.cpp) | Linked list | Done |
 | 2026-10-06 | [143. Reorder List](problems/10-linked-list/0143-reorder-list.cpp) | Linked list | Done |
 | 2026-10-11 | [21. Merge Two Sorted Lists](problems/10-linked-list/0021-merge-two-sorted-lists.cpp) | Linked list | Done |
+| 2026-10-13 | [155. Min Stack](problems/11-stacks-queues/0155-min-stack.cpp) | Stacks & queues | Done |
+| 2026-10-13 | [232. Implement Queue using Stacks](problems/11-stacks-queues/0232-implement-queue-using-stacks.cpp) | Stacks & queues | Done |
 
 ## Progress by pattern
 
@@ -68,7 +70,7 @@ One row per day, newest at the bottom.
 | Backtracking | 0 | 0 |
 | Sorting & binary search | 1 | 0 |
 | Linked list | 6 | 0 |
-| Stacks & queues | 0 | 0 |
+| Stacks & queues | 2 | 0 |
 | Trees & BST | 0 | 0 |
 | Graphs | 0 | 0 |
 | Dynamic programming | 0 | 0 |
