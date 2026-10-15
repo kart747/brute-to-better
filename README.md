@@ -62,13 +62,14 @@ One row per day, newest at the bottom.
 | 2026-10-15 | [167. Two Sum II - Input Array Is Sorted](problems/02-two-pointers/0167-two-sum-ii-input-array-is-sorted.py) | Two pointers | Done |
 | 2026-10-15 | [11. Container With Most Water](problems/02-two-pointers/0011-container-with-most-water.py) | Two pointers | Done |
 | 2026-10-15 | [15. 3Sum](problems/02-two-pointers/0015-3sum.py) | Two pointers | Done |
+| 2026-10-16 | [26. Remove Duplicates from Sorted Array](problems/02-two-pointers/0026-remove-duplicates-from-sorted-array.py) | Two pointers | Done |
 
 ## Progress by pattern
 
 | Pattern | Done | WIP |
 |---------|------|-----|
 | Prefix sum | 1 | 0 |
-| Two pointers | 3 | 0 |
+| Two pointers | 4 | 0 |
 | Sliding window | 4 | 0 |
 | Kadane / subarrays | 1 | 0 |
 | Cyclic sort | 0 | 0 |
