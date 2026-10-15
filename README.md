@@ -38,7 +38,6 @@ One row per day, newest at the bottom.
 
 | Date       | Problem | Pattern | Status |
 |------------|---------|---------|--------|
-| 2026-09-12 | [15. 3Sum](problems/02-two-pointers/0015-3sum.cpp) | Two pointers | WIP |
 | 2026-09-22 | [2461. Max Sum of Distinct Subarrays With Length K](problems/03-sliding-window/2461-max-sum-distinct-subarrays-k.cpp) | Sliding window | Done |
 | 2026-09-23 | [3. Longest Substring Without Repeating Characters](problems/03-sliding-window/0003-longest-substring-no-repeat.cpp) | Sliding window | Done |
 | 2026-09-24 | [904. Fruit Into Baskets](problems/03-sliding-window/0904-fruit-into-baskets.cpp) | Sliding window | Done |
@@ -62,13 +61,14 @@ One row per day, newest at the bottom.
 | 2026-10-15 | [1. Two Sum](problems/02-two-pointers/0001-two-sum.py) | Hash map | Done |
 | 2026-10-15 | [167. Two Sum II - Input Array Is Sorted](problems/02-two-pointers/0167-two-sum-ii-input-array-is-sorted.py) | Two pointers | Done |
 | 2026-10-15 | [11. Container With Most Water](problems/02-two-pointers/0011-container-with-most-water.py) | Two pointers | Done |
+| 2026-10-15 | [15. 3Sum](problems/02-two-pointers/0015-3sum.py) | Two pointers | Done |
 
 ## Progress by pattern
 
 | Pattern | Done | WIP |
 |---------|------|-----|
 | Prefix sum | 1 | 0 |
-| Two pointers | 2 | 1 |
+| Two pointers | 3 | 0 |
 | Sliding window | 4 | 0 |
 | Kadane / subarrays | 1 | 0 |
 | Cyclic sort | 0 | 0 |
