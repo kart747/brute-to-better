@@ -68,6 +68,7 @@ One row per day, newest at the bottom.
 | 2026-10-19 | [76. Minimum Window Substring](problems/03-sliding-window/0076-minimum-window-substring.py) | Sliding window | Done |
 | 2026-10-19 | [918. Maximum Sum Circular Subarray](problems/04-kadane-subarrays/0918-maximum-sum-circular-subarray.py) | Kadane | Done |
 | 2026-10-20 | [268. Missing Number](problems/05-cyclic-sort/0268-missing-number.py) | Cyclic sort | Done |
+| 2026-10-20 | [448. Find All Numbers Disappeared in an Array](problems/05-cyclic-sort/0448-find-all-numbers-disappeared-in-an-array.py) | Cyclic sort | Done |
 
 ## Progress by pattern
 
@@ -77,7 +78,7 @@ One row per day, newest at the bottom.
 | Two pointers | 5 | 0 |
 | Sliding window | 5 | 0 |
 | Kadane / subarrays | 3 | 0 |
-| Cyclic sort | 1 | 0 |
+| Cyclic sort | 2 | 0 |
 | Binary search on arrays | 0 | 0 |
 | Recursion | 0 | 0 |
 | Backtracking | 0 | 0 |
