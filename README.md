@@ -66,6 +66,7 @@ One row per day, newest at the bottom.
 | 2026-10-16 | [75. Sort Colors](problems/02-two-pointers/0075-sort-colors.py) | Two pointers (counting) | Done |
 | 2026-10-18 | [152. Maximum Product Subarray](problems/04-kadane-subarrays/0152-maximum-product-subarray.py) | Kadane | Done |
 | 2026-10-19 | [76. Minimum Window Substring](problems/03-sliding-window/0076-minimum-window-substring.py) | Sliding window | Done |
+| 2026-10-19 | [918. Maximum Sum Circular Subarray](problems/04-kadane-subarrays/0918-maximum-sum-circular-subarray.py) | Kadane | Done |
 
 ## Progress by pattern
 
@@ -74,7 +75,7 @@ One row per day, newest at the bottom.
 | Prefix sum | 1 | 0 |
 | Two pointers | 5 | 0 |
 | Sliding window | 5 | 0 |
-| Kadane / subarrays | 2 | 0 |
+| Kadane / subarrays | 3 | 0 |
 | Cyclic sort | 0 | 0 |
 | Binary search on arrays | 0 | 0 |
 | Recursion | 0 | 0 |
