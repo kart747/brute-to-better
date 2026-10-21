@@ -71,6 +71,7 @@ One row per day, newest at the bottom.
 | 2026-10-20 | [448. Find All Numbers Disappeared in an Array](problems/05-cyclic-sort/0448-find-all-numbers-disappeared-in-an-array.py) | Cyclic sort | Done |
 | 2026-10-20 | [287. Find the Duplicate Number](problems/05-cyclic-sort/0287-find-the-duplicate-number.py) | Cyclic sort | Done |
 | 2026-10-20 | [442. Find All Duplicates in an Array](problems/05-cyclic-sort/0442-find-all-duplicates-in-an-array.py) | Cyclic sort | Done |
+| 2026-10-21 | [3863. Minimum Operations to Sort a String](problems/15-daily-challenge/3863-minimum-operations-to-sort-a-string.py) | Daily challenge (string, case analysis) | Done |
 
 ## Progress by pattern
 
