@@ -75,6 +75,7 @@ One row per day, newest at the bottom.
 | 2026-10-26 | [744. Find Smallest Letter Greater Than Target](problems/06-binary-search-arrays/0744-find-smallest-letter-greater-than-target.py) | Binary search on arrays | Done |
 | 2026-10-26 | [34. Find First and Last Position of Element in Sorted Array](problems/06-binary-search-arrays/0034-find-first-and-last-position-of-element-in-sorted-array.py) | Binary search on arrays | Done |
 | 2026-10-26 | [852. Peak Index in a Mountain Array](problems/06-binary-search-arrays/0852-peak-index-in-a-mountain-array.py) | Binary search on arrays | Done |
+| 2026-10-28 | [33. Search in Rotated Sorted Array](problems/06-binary-search-arrays/0033-search-in-rotated-sorted-array.py) | Binary search on arrays | Done |
 
 ## Progress by pattern
 
@@ -85,7 +86,7 @@ One row per day, newest at the bottom.
 | Sliding window | 5 | 0 |
 | Kadane / subarrays | 3 | 0 |
 | Cyclic sort | 4 | 0 |
-| Binary search on arrays | 3 | 0 |
+| Binary search on arrays | 4 | 0 |
 | Recursion | 0 | 0 |
 | Backtracking | 0 | 0 |
 | Sorting & binary search | 1 | 0 |
