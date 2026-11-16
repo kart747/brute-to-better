@@ -77,6 +77,7 @@ One row per day, newest at the bottom.
 | 2026-10-26 | [852. Peak Index in a Mountain Array](problems/06-binary-search-arrays/0852-peak-index-in-a-mountain-array.py) | Binary search on arrays | Done |
 | 2026-10-28 | [33. Search in Rotated Sorted Array](problems/06-binary-search-arrays/0033-search-in-rotated-sorted-array.py) | Binary search on arrays | Done |
 | 2026-11-16 | [1971. Find if Path Exists in Graph](problems/13-graphs/1971-find-if-path-exists-in-graph.py) | Graphs | Done |
+| 2026-11-16 | [797. All Paths From Source to Target](problems/13-graphs/0797-all-paths-from-source-to-target.py) | Graphs | Done |
 
 ## Progress by pattern
 
@@ -94,5 +95,5 @@ One row per day, newest at the bottom.
 | Linked list | 8 | 0 |
 | Stacks & queues | 4 | 0 |
 | Trees & BST | 0 | 0 |
-| Graphs | 1 | 0 |
+| Graphs | 2 | 0 |
 | Dynamic programming | 0 | 0 |
