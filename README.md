@@ -79,6 +79,7 @@ One row per day, newest at the bottom.
 | 2026-11-16 | [1971. Find if Path Exists in Graph](problems/13-graphs/1971-find-if-path-exists-in-graph.py) | Graphs | Done |
 | 2026-11-16 | [797. All Paths From Source to Target](problems/13-graphs/0797-all-paths-from-source-to-target.py) | Graphs | Done |
 | 2026-11-18 | [841. Keys and Rooms](problems/13-graphs/0841-keys-and-rooms.py) | Graphs | Done |
+| 2026-11-18 | [133. Clone Graph](problems/13-graphs/0133-clone-graph.py) | Graphs | Done |
 
 ## Progress by pattern
 
@@ -96,5 +97,5 @@ One row per day, newest at the bottom.
 | Linked list | 8 | 0 |
 | Stacks & queues | 4 | 0 |
 | Trees & BST | 0 | 0 |
-| Graphs | 3 | 0 |
+| Graphs | 4 | 0 |
 | Dynamic programming | 0 | 0 |
