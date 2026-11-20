@@ -83,6 +83,7 @@ One row per day, newest at the bottom.
 | 2026-11-18 | [133. Clone Graph](problems/13-graphs/0133-clone-graph.py) | Graphs | Done |
 | 2026-11-20 | [200. Number of Islands](problems/13-graphs/0200-number-of-islands.py) | Graphs | Done |
 | 2026-11-20 | [387. First Unique Character in a String](problems/16-arrays-strings-hashmaps/0387-first-unique-character-in-a-string.py) | Hash map (Counter) | Done |
+| 2026-11-20 | [49. Group Anagrams](problems/16-arrays-strings-hashmaps/0049-group-anagrams.py) | Hash map (sorted key) | Done |
 
 ## Progress by pattern
 
@@ -102,4 +103,4 @@ One row per day, newest at the bottom.
 | Trees & BST | 0 | 0 |
 | Graphs | 5 | 0 |
 | Dynamic programming | 0 | 0 |
-| Arrays, strings & hash maps | 1 | 0 |
+| Arrays, strings & hash maps | 2 | 0 |
