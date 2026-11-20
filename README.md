@@ -87,6 +87,7 @@ One row per day, newest at the bottom.
 | 2026-11-20 | [3. Longest Substring Without Repeating Characters](problems/16-arrays-strings-hashmaps/0003-longest-substring-without-repeating-characters.py) | Sliding window (set), Python | Done |
 | 2026-11-20 | [347. Top K Frequent Elements](problems/16-arrays-strings-hashmaps/0347-top-k-frequent-elements.py) | Hash map (Counter.most_common) | Done |
 | 2026-11-21 | [242. Valid Anagram](problems/16-arrays-strings-hashmaps/0242-valid-anagram.py) | Strings (sorted compare) | Done |
+| 2026-11-21 | [125. Valid Palindrome](problems/16-arrays-strings-hashmaps/0125-valid-palindrome.py) | Strings (clean + reverse) | Done |
 
 ## Progress by pattern
 
@@ -106,4 +107,4 @@ One row per day, newest at the bottom.
 | Trees & BST | 0 | 0 |
 | Graphs | 5 | 0 |
 | Dynamic programming | 0 | 0 |
-| Arrays, strings & hash maps | 5 | 0 |
+| Arrays, strings & hash maps | 6 | 0 |
