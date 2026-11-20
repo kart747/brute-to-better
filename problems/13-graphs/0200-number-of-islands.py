@@ -1,10 +1,9 @@
 # 200. Number of Islands
 # https://leetcode.com/problems/number-of-islands/
-# Pattern : grid traversal (DFS/BFS flood fill, count connected components)
+# Pattern : grid traversal (BFS flood fill with a visited set, count connected components)
 # Time    : O(R * C)      Space: O(R * C)
 # Solved  : 2026-11-20
-# Note    : recursive DFS raises RecursionError on huge all-land grids (~300x300);
-#           an iterative version (BFS or an explicit stack) avoids that.
+# Note    : BFS (iterative) on purpose: recursive DFS raises RecursionError on ~300x300 all-land grids.
 
 from collections import deque
 
@@ -34,22 +33,27 @@ class Solution:
         # "1" = land, "0" = water. Connected up/down/left/right = same island.
         n = len(grid)
         m = len(grid[0])
-        visited = [[False] * m for _ in range(n)] 
+        visited = set()                    # holds (row, col) tuples
         count = 0
         dirs = [(-1, 0), (1, 0), (0, -1), (0, 1)]
-        def dfs(r,c):
-            visited[r][c] = True
-            for dr,dc in dirs:
-                nr, nc = r + dr, c + dc
-                if 0 <= nr < n and 0 <= nc < m and grid[nr][nc] == "1" and not visited[nr][nc]: 
-                    dfs(nr,nc)
+
+        def bfs(r, c):
+            visited.add((r, c))                # mark the start cell
+            q = deque([(r, c)])                # ONE item: the (row, col) pair
+            while q:
+                cr, cc = q.popleft()
+                for dr, dc in dirs:            # for every popped cell, look at its 4 neighbors
+                    nr, nc = cr + dr, cc + dc
+                    if 0 <= nr < n and 0 <= nc < m and grid[nr][nc] == "1" and (nr, nc) not in visited:
+                        visited.add((nr, nc))  # mark when you ADD it to the queue
+                        q.append((nr, nc))
+
         for r in range(n):
             for c in range(m):
-                if grid[r][c] == "1":
-                    if not visited[r][c]:
-                        count+=1
-                        dfs(r,c)
-                        
+                if grid[r][c] == "1" and (r, c) not in visited:
+                    count += 1                 # new island found
+                    bfs(r, c)                  # mark the whole island
+
         return count
 
 
