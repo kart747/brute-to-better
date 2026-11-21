@@ -91,6 +91,7 @@ One row per day, newest at the bottom.
 | 2026-11-21 | [151. Reverse Words in a String](problems/16-arrays-strings-hashmaps/0151-reverse-words-in-a-string.py) | Strings (split, reverse, join) | Done |
 | 2026-11-21 | [14. Longest Common Prefix](problems/16-arrays-strings-hashmaps/0014-longest-common-prefix.py) | Strings (shrink prefix, startswith) | Done |
 | 2026-11-21 | [205. Isomorphic Strings](problems/16-arrays-strings-hashmaps/0205-isomorphic-strings.py) | Hash map (two-way mapping) | Done |
+| 2026-11-21 | [5. Longest Palindromic Substring](problems/16-arrays-strings-hashmaps/0005-longest-palindromic-substring.py) | Strings (expand around center) | Done |
 
 ## Progress by pattern
 
@@ -110,4 +111,4 @@ One row per day, newest at the bottom.
 | Trees & BST | 0 | 0 |
 | Graphs | 5 | 0 |
 | Dynamic programming | 0 | 0 |
-| Arrays, strings & hash maps | 9 | 0 |
+| Arrays, strings & hash maps | 10 | 0 |
